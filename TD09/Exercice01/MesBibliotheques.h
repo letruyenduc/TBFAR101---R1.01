@@ -32,4 +32,6 @@ void calculSomme(int *t, int taille, int *sommePlus, int *sommeMoins);
 int* concatener_tab(int *pTab1, int taille1, int *pTab2, int taille2, int *pTab3);
 void saisirTableauNegatif(int *t, int taille, int valMax);
 void separerNegatifPositif(int tab[], int taille, int negatif[], int *tailleN, int positif[], int *tailleP);
+
+
 #endif // MESBIBLIOTHEQUES_H

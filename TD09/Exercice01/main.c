@@ -21,4 +21,5 @@ int main(int argc, char const *argv[])
     printf("Positif: ");
     afficheTableau(positif, tailleP);
     return 0;
+}
 // Copie du dernier exo du TD08
